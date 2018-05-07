@@ -1,4 +1,4 @@
-RTL AdminBSB - Material Design For Persian (Farsi) Language: نسخه راستچین متریال دیزاین برای زبان فارسی
+RTL AdminBSB - Material Design For Persian (Farsi) Language: قالب مدیریتی بوت استرپی متریال دیزاین راست چین و فارسی
 =======================
 
 # This is a test template. This is not completed!
