@@ -9,6 +9,7 @@ $(function () {
         },
         errorPlacement: function (error, element) {
             $(element).parents('.input-group').append(error);
+            $(element).parents('.form-group').append(error);
         }
     });
 });

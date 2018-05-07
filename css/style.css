@@ -3086,7 +3086,7 @@ section.content {
     .card .header .header-dropdown {
       position: absolute;
       top: 20px;
-      right: 15px;
+      left: 15px;
       list-style: none; }
       .card .header .header-dropdown .dropdown-menu li {
         display: block !important; }

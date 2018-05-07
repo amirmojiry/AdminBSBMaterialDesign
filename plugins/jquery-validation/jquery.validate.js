@@ -349,17 +349,25 @@ $.extend( $.validator, {
 	},
 
 	messages: {
-		required: "This field is required.",
+		required: "" +
+        "شما باید این بخش را کامل کنید.",
 		remote: "Please fix this field.",
-		email: "Please enter a valid email address.",
+		email: "" +
+        "لطفا نشانی ایمیل را درست بنویسید.",
 		url: "Please enter a valid URL.",
 		date: "Please enter a valid date.",
 		dateISO: "Please enter a valid date (ISO).",
 		number: "Please enter a valid number.",
-		digits: "Please enter only digits.",
-		equalTo: "Please enter the same value again.",
-		maxlength: $.validator.format( "Please enter no more than {0} characters." ),
-		minlength: $.validator.format( "Please enter at least {0} characters." ),
+		digits: "" +
+        "لطفا فقط عدد وارد کنید.",
+		equalTo: "" +
+        "لطفا گذرواژه را دوباره مانند بخش قبلی بنویسید.",
+		maxlength: $.validator.format( "لطفا بیش تر از" +
+        " {0} " +
+        "کاراکتر ننویسید." ),
+		minlength: $.validator.format( "لطفا حداقل" +
+        " {0} " +
+        "کاراکتر بنویسید." ),
 		rangelength: $.validator.format( "Please enter a value between {0} and {1} characters long." ),
 		range: $.validator.format( "Please enter a value between {0} and {1}." ),
 		max: $.validator.format( "Please enter a value less than or equal to {0}." ),
