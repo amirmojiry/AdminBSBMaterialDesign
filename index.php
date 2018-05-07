@@ -5,7 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <title>به قالب مدیریتی بوت استرپی متریال دیزاین راستچین و فارسی خوش آمدید.</title>
+    <title>
+      به قالب مدیریتی بوت استرپی متریال دیزاین راستچین و فارسی خوش آمدید.
+    </title>
     <!-- Favicon-->
     <link rel="icon" href="favicon.ico" type="image/x-icon">
 
@@ -46,7 +48,9 @@
                     </div>
                 </div>
             </div>
-            <p>لطفا کمی صبر کنید...</p>
+            <p dir="rtl">
+              لطفا کمی صبر کنید...
+            </p>
         </div>
     </div>
     <!-- #END# Page Loader -->
@@ -70,7 +74,9 @@
             <div class="navbar-header">
                 <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
                 <a href="javascript:void(0);" class="bars"></a>
-                <a class="navbar-brand" href="index.html">قالب مدیریتی بوت استرپی راستچین و فارسی</a>
+                <a class="navbar-brand" href="index.html">
+                  قالب مدیریتی بوت استرپی راستچین و فارسی
+                </a>
             </div>
             <div class="collapse navbar-collapse" id="navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -93,9 +99,12 @@
                                                 <i class="material-icons">person_add</i>
                                             </div>
                                             <div class="menu-info">
-                                                <h4>12 new members joined</h4>
+                                                <h4>
+                                                  12 عضو جدید اضافه شدند.
+                                                </h4>
                                                 <p>
-                                                    <i class="material-icons">access_time</i> 14 دقیقه قبل
+                                                    <i class="material-icons">access_time</i>
+                                                     14 دقیقه قبل
                                                 </p>
                                             </div>
                                         </a>
@@ -106,9 +115,12 @@
                                                 <i class="material-icons">add_shopping_cart</i>
                                             </div>
                                             <div class="menu-info">
-                                                <h4>4 sales made</h4>
+                                                <h4>
+                                                  4 خرید انجام شد.
+                                                </h4>
                                                 <p>
-                                                    <i class="material-icons">access_time</i> 22 دقیقه قبل
+                                                    <i class="material-icons">access_time</i>
+                                                     22 دقیقه قبل
                                                 </p>
                                             </div>
                                         </a>
@@ -119,9 +131,15 @@
                                                 <i class="material-icons">delete_forever</i>
                                             </div>
                                             <div class="menu-info">
-                                                <h4><b>Nancy Doe</b> deleted account</h4>
+                                                <h4>
+                                                  <b>
+                                                    امیر
+                                                  </b>
+                                                   اکانتش را پاک کرد.
+                                                </h4>
                                                 <p>
-                                                    <i class="material-icons">access_time</i> 3 ساعت قبل
+                                                    <i class="material-icons">access_time</i>
+                                                     3 ساعت قبل
                                                 </p>
                                             </div>
                                         </a>
@@ -132,9 +150,15 @@
                                                 <i class="material-icons">mode_edit</i>
                                             </div>
                                             <div class="menu-info">
-                                                <h4><b>Nancy</b> changed name</h4>
+                                                <h4>
+                                                  <b>
+                                                    امیر
+                                                  </b>
+                                                   اسمش را عوض کرد.
+                                                 </h4>
                                                 <p>
-                                                    <i class="material-icons">access_time</i> 2 ساعت قبل
+                                                    <i class="material-icons">access_time</i>
+                                                     2 ساعت قبل
                                                 </p>
                                             </div>
                                         </a>
@@ -145,9 +169,15 @@
                                                 <i class="material-icons">comment</i>
                                             </div>
                                             <div class="menu-info">
-                                                <h4><b>John</b> commented your post</h4>
+                                                <h4>
+                                                  <b>
+                                                    هانیه
+                                                  </b>
+                                                   درباره پستت نظر داد.
+                                                 </h4>
                                                 <p>
-                                                    <i class="material-icons">access_time</i> 4 ساعت قبل
+                                                    <i class="material-icons">access_time</i>
+                                                     4 ساعت قبل
                                                 </p>
                                             </div>
                                         </a>
@@ -160,7 +190,8 @@
                                             <div class="menu-info">
                                                 <h4><b>John</b> updated status</h4>
                                                 <p>
-                                                    <i class="material-icons">access_time</i> 3 ساعت قبل
+                                                    <i class="material-icons">access_time</i>
+                                                     3 ساعت قبل
                                                 </p>
                                             </div>
                                         </a>
@@ -171,9 +202,12 @@
                                                 <i class="material-icons">settings</i>
                                             </div>
                                             <div class="menu-info">
-                                                <h4>Settings updated</h4>
+                                                <h4>
+                                                  تنظیمات به روز شد.
+                                                </h4>
                                                 <p>
-                                                    <i class="material-icons">access_time</i> دیروز
+                                                    <i class="material-icons">access_time</i>
+                                                     دیروز
                                                 </p>
                                             </div>
                                         </a>
@@ -181,7 +215,9 @@
                                 </ul>
                             </li>
                             <li class="footer">
-                                <a href="javascript:void(0);">View All Notifications</a>
+                                <a href="javascript:void(0);">
+                                  دیدن همه ی اعلان ها
+                                </a>
                             </li>
                         </ul>
                     </li>
@@ -193,7 +229,9 @@
                             <span class="label-count">9</span>
                         </a>
                         <ul class="dropdown-menu">
-                            <li class="header">TASKS</li>
+                            <li class="header">
+                              کارها
+                            </li>
                             <li class="body">
                                 <ul class="menu tasks">
                                     <li>
